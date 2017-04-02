@@ -4,7 +4,7 @@ return [
     'class' => 'yii\db\Connection',
     'dsn' => 'mysql:host=localhost;dbname=yii',
     'username' => 'root',
-    'password' => 'xiejian',
+    'password' => '',
     'charset' => 'utf8',
     'tablePrefix' => 'shop_',
 ];
