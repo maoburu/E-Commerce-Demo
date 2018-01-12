@@ -1,2 +1,2 @@
-# my_eshop_demo
-a simple eshop demo. basic on Mr.Jason 
+# E-COMMERCE Demo
+A demo of E-COMMERCE developed by PHP yii2 FrameWork
